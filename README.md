@@ -4,11 +4,11 @@
   An aspiring full-stack web developer with a strong dedication to learning and building dynamic, user-focused websites and scalable web applications using modern technologies.
 </p>
 
----
 
-## 🔗 Connect with Me
 
-<p align="center">
+### 🔗 Connect with Me
+
+<p align="left">
   <a href="https://www.linkedin.com/in/jannat-0a457a328/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45"/>
   </a>
@@ -22,11 +22,11 @@
   </a>
 </p>
 
----
 
-## 💻 Tech Stack
 
-<p align="center">
+### 💻 Tech Stack
+
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
@@ -50,11 +50,11 @@
   <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" alt="Tailwind CSS" width="40" height="40"/>
 </p>
 
----
 
-## 📌 Top Contributed Repository
 
-<p align="center">
+### 📌 Top Contributed Repository
+
+<p align="left">
   <a href="https://github.com/kalviumcommunity/S66_Jannat_Capstone_AspireAbroad">
     ⭐ <strong>S66_Jannat_Capstone_AspireAbroad</strong>
   </a>
