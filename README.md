@@ -14,7 +14,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/its_jannat_26/" target="_blank">
-    <img src="https://c0.klipartz.com/pngpicture/866/916/gratis-png-logo-iconos-de-computadora-instagram-logo-de-la-aplicacion-de-instagram-thumbnail.png" alt="Instagram" width="40" height="40"/>
+    <img src="https://gimgs2.nohat.cc/thumb/f/640/instagram-icon-png-transparent--a8ec508b37.jpg" alt="Instagram" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/Jannat1017/" target="_blank">
