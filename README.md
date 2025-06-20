@@ -10,15 +10,15 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jannat-0a457a328/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/its_jannat_26/" target="_blank">
-    <img src="https://img.freepik.com/premium-vector/instagram-vector-logo-icon-social-media-logotype_901408-392.jpg?w=740" alt="Instagram" width="45" height="45"/>
+    <img src="https://img.freepik.com/premium-vector/instagram-vector-logo-icon-social-media-logotype_901408-392.jpg?w=740" alt="Instagram" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/Jannat1017/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="45" height="45"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
   </a>
 </p>
 
